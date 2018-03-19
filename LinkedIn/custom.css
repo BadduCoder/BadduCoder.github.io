@@ -1,0 +1,32 @@
+.text-center
+{
+  text-align: center;
+}
+body
+{
+  font-family: sans-serif;
+  color:white;
+  background-color:#002233;
+}
+#in
+{
+  background-color: #4875B4;
+  border-radius: 4px;
+  padding: 3px;
+  margin-left: 2px;
+}
+.mainbox
+{
+  background-color:#595959;
+  width: 50%;
+  float: left;
+  width: 70%;
+  align-content: center;
+  border-radius:3px;
+}
+.space
+{
+  float: left;
+  min-width:15%;
+  color:#002233;
+}
