@@ -23,6 +23,7 @@ body
   margin:auto;
   border-radius:0.5vh;
   margin-top: 4vh;
+  overflow:auto;
   padding-top: 4vh;
   padding-bottom: 4vh;
   padding-left: 2vw;
