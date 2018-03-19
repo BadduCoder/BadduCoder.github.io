@@ -1,5 +1,5 @@
 @media (max-width: 600px) {
-  .content {
+  .mainbox {
     min-width: 100%;
     max-width: 100%;
   }
@@ -33,7 +33,7 @@ body
   padding: 3px;
   margin-left: 3px;
 }
-.container
+.mainbox
 {
   background-color:#404040;
   margin:auto;
