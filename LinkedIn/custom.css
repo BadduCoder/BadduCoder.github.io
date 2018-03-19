@@ -6,6 +6,9 @@
   {
     min-width:90%;
   }
+  button{
+    font-size:15px;
+  }
 }
 .text-center
 {
@@ -48,6 +51,7 @@ input
   border: none;
   border-radius: 4px;
   width: 440px;
+  font-size: 15px;
   color:white;
   margin:1px auto;
 }
