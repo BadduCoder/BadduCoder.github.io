@@ -7,6 +7,7 @@ body
   font-family: sans-serif;
   color:white;
   background-color:#002233;
+  margin: 10px;
 }
 #in
 {
@@ -20,13 +21,33 @@ body
   background-color:#595959;
   width: 50%;
   float: left;
-  width: 70%;
+  width: 40%;
   align-content: center;
   border-radius:3px;
+  margin-top: 20px;
 }
 .space
 {
   float: left;
-  min-width:15%;
+  min-width:30%;
   color:#002233;
+}
+input
+{
+  width: 50%;
+  margin:2px;
+  padding: 1%;
+  border-radius: 2%;
+  border:none;
+}
+.button
+{
+  background-color: #4875B4;
+  border: none;
+  border-radius: 3px;
+  min-width: 50%;
+  color:white;
+  font-size: 20px;
+  margin:2%;
+  padding: 1%;
 }
