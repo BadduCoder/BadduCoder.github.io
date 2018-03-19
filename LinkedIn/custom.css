@@ -1,12 +1,16 @@
 @media (max-width: 400px) {
   .mainbox {
     min-width: 100%;
+    max-width: 100%;
   }
   input
   {
     max-width:90%;
+    min-width:90%;
   }
   button{
+    max-width:105%;
+    min-width:105%;
     font-size:15px;
   }
 }
