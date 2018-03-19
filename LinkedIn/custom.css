@@ -7,52 +7,47 @@ body
   font-family: sans-serif;
   color:white;
   background-color:#002233;
-  margin: 10px;
+  margin: 5vh;
 }
 #in
 {
   background-color: #4875B4;
-  border-radius: 4px;
-  padding: 3px;
-  margin-left: 2px;
+  border-radius: 0.5vh;
+  padding: 0.4vh;
+  margin-left: 0.5vh;
 }
 .mainbox
 {
   background-color:#404040;
-  width: 50%;
+  width: 50vh;
   float: left;
-  width: 25%;
   align-content: center;
-  border-radius:3px;
-  margin-top: 20px;
-  padding: 2%;
+  border-radius:0.5vh;
+  margin-top: 2vh;
+  padding: 4vh;
 }
 .space
 {
   float: left;
-  min-width:35.5%;
+  min-width:65vh;
   color:#002233;
 }
 input
 {
-  width: 70%;
-  margin:.2%;
-  padding: 3%;
+  width: 38vh;
+  margin:.1vh;
+  padding: 2vh;
   border-radius: 2%;
   border:none;
-}
-input
-{
-  margin-top: 0px;
 }
 .button
 {
   background-color: #4875B4;
   border: none;
-  border-radius: 3px;
-  min-width: 77%;
+  border-radius: 0.3vh;
+  min-width: 42vh;
   color:white;
-  font-size: 20px;
-  margin:2%;
-  padding: 1%;
+  font-size: 1vw;
+  margin:1vh;
+  padding: 1vh;
 }
