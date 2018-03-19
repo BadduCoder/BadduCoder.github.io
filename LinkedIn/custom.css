@@ -19,18 +19,14 @@ body
 .mainbox
 {
   background-color:#404040;
-  width: 50vh;
-  float: left;
-  align-content: center;
+  width: 25vw;
+  margin:auto;
   border-radius:0.5vh;
-  margin-top: 2vh;
-  padding: 4vh;
-}
-.space
-{
-  float: left;
-  min-width:65vh;
-  color:#002233;
+  margin-top: 4vh;
+  padding-top: 4vh;
+  padding-bottom: 4vh;
+  padding-left: 2vw;
+  padding-right: 2vw;
 }
 input
 {
