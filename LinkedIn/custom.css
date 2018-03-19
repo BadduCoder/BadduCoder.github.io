@@ -4,7 +4,7 @@
   }
   input
   {
-    width:90
+    min-width:90%;
   }
 }
 .text-center
@@ -50,5 +50,4 @@ input
   width: 440px;
   color:white;
   margin:1px auto;
-  padding:20px;
 }
