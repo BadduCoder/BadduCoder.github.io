@@ -1,16 +1,16 @@
 @media (max-width: 600px) {
   .mainbox {
-    min-width: 100%;
-    max-width: 100%;
+    min-width: 80%;
+    max-width: 80%;
   }
   input
   {
-    max-width:90%;
-    min-width:90%;
+    max-width:70%;
+    min-width:70%;
   }
   button{
-    max-width:90%;
-    min-width:90%;
+    max-width:70%;
+    min-width:70%;
     font-size:15px;
   }
 }
