@@ -7,8 +7,8 @@ $(document).ready(function(){
 
       tr.append("<td>"+data[i].name+"</td>");
       tr.append("<td>"+data[i].username+"</td>");
-      tr.append("<td>"+data[i].email+"</td>");
-      tr.append("<td>"+data[i].address.city+"</td>");
+      //tr.append("<td>"+data[i].email+"</td>");
+      //tr.append("<td>"+data[i].address.city+"</td>");
       $('table').append(tr);
     }
   });
