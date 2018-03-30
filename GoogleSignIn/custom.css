@@ -1,0 +1,21 @@
+.g-signin2
+{
+  margin: auto;
+}
+.button
+{
+  display: none;
+}
+.footer
+{
+  position: fixed;
+  bottom:0;
+  width: 100%;
+  padding:0.5%;
+  color:#e8edef;
+  background-color: #4f6066;
+}
+.jumbotron
+{
+  background: linear-gradient(#b6dded, #e8edef);;
+}
